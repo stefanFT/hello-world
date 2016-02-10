@@ -1,2 +1,2 @@
 # hello-world
-My first git repository.
+Changes to readme file in my first git repository.
